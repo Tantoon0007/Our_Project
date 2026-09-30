@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\USER\Desktop\C++\Main\Main\Main.cpp(194,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\USER\Desktop\C++\Main\Main\Main.cpp(199,53): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+  Main.vcxproj -> C:\Users\USER\Desktop\C++\Main\x64\Debug\Main.exe
